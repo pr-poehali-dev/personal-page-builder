@@ -29,7 +29,7 @@ const Hero = () => {
         </div>
 
         <h1 className="text-6xl md:text-7xl font-bold mb-4 bg-gradient-to-r from-white to-purple-200 bg-clip-text text-transparent">
-          Roma Shaufler
+          Роман Шауфлер
         </h1>
 
         <h2 className="text-2xl md:text-3xl font-light mb-6 text-purple-200">
